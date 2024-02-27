@@ -1,0 +1,19 @@
+java installing Code 
+
+Step 1 run this cmd
+wget https://download.java.net/java/GA/jdk13.0.1/cec27d702aa74d5a8630c65ae61e4305/9/GPL/openjdk-13.0.1_linux-x64_bin.tar.gz
+
+step 2 unzip the file  & config it by running this cmd
+tar -xvf openjdk-13.0.1_linux-x64_bin.tar.gz
+mv jdk-13.0.1 /opt/
+Step 3 check java version using this cmd
+java -version 
+
+Maven Installing code 
+
+Step 1 run this code 
+wget https://mirrors.estointernet.in/apache/maven/maven-3/3.6.3/binaries/apache-maven-3.6.3-bin.tar.gz
+
+Step 2 unzip it 
+tar -xvf apache-maven-3.6.3-bin.tar.gz
+
